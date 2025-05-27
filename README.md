@@ -8,10 +8,10 @@ Perceiv. is a multimodal visual assistant which is designed to help visually imp
 
 
 ## Perceiv utilised four fundamental technologies which are:
-BLIP: Bootstrapping Language-Image Pre-training
-LLAMA2: Large Language Model Meta AI 2
-CLIP: Contrastive Language-Image Pre-Training
-GTTS & GSTT: Google Speech-to-Text and Google Text-to-Speech
+- BLIP: Bootstrapping Language-Image Pre-training
+- LLAMA2: Large Language Model Meta AI 2
+- CLIP: Contrastive Language-Image Pre-Training
+- GTTS & GSTT: Google Speech-to-Text and Google Text-to-Speech
 
 
 ## Architectural Overview
